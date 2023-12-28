@@ -1,0 +1,12 @@
+.articles{
+    display: flex;
+    max-width: 1024px;
+    margin: 30px auto 0;
+    justify-content: space-between;
+}
+
+.articles_others{
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+}

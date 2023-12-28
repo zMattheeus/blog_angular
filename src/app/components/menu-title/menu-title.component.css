@@ -1,0 +1,16 @@
+.menu_title_component{
+    color: #fff;
+}
+
+.menu_title_component h1{
+    margin: 10px 0;
+    font-size: 230px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.menu_title_component hr{
+    margin-top: 20px;
+}

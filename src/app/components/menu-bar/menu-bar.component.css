@@ -1,0 +1,15 @@
+.nav-bar{
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.nav-bar ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    list-style: none;
+}
+
+.menu_bar_container{
+    padding-top: 15px;
+}
