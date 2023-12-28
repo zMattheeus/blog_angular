@@ -1,10 +1,13 @@
 .small_card_container{
     width: 500px;
     height: 100px;
+    
 }
 
 .small_card_content{
     display: flex;
+    max-width: 500px;
+
 }
 
 .small_card_img img{
@@ -18,7 +21,6 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
 }
 
 hr{
